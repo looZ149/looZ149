@@ -4,7 +4,7 @@
 
 **Angehender Softwareentwickler · Fachinformatiker Anwendungsentwicklung (IHK)**
 
-Linkenheim-Hochstetten, Deutschland &nbsp;·&nbsp;
+Linkenheim-Hochstetten, Deutschland &nbsp;&nbsp;
 
 </div>
 
@@ -49,17 +49,6 @@ Softwareentwicklung ist für mich mehr als Beruf – ich entwickle in meiner Fre
 | [**Webserver x86-Assembly**](https://github.com/looZ149/Webserver-x86-assembly) | HTTP-Server vollständig in x86-Assembly – Systemprogrammierung auf unterster Ebene | Assembly |
 | [**CBrowser**](https://github.com/looZ149/CBrowser) | Browser-Projekt in C++ zur Erkundung von Web-Rendering-Konzepten | C++ |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=looZ149&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=looZ149&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
