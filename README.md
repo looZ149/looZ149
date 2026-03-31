@@ -1,7 +1,5 @@
 <div align="center">
 
-# Nils Klitsch
-
 **Angehender Softwareentwickler · Fachinformatiker Anwendungsentwicklung (IHK)**
 
 Linkenheim-Hochstetten, Deutschland &nbsp;&nbsp;
