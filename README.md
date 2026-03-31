@@ -4,7 +4,7 @@
 
 **Angehender Softwareentwickler · Fachinformatiker Anwendungsentwicklung (IHK)**
 
-Linkenheim-Hochstetten, Deutschland &nbsp;·&nbsp; [nklitsch@web.de](mailto:nklitsch@web.de)
+Linkenheim-Hochstetten, Deutschland &nbsp;·&nbsp;
 
 </div>
 
@@ -69,8 +69,3 @@ Softwareentwicklung ist für mich mehr als Beruf – ich entwickle in meiner Fre
 
 ---
 
-## 📬 Kontakt
-
-- **E-Mail:** [nklitsch@web.de](mailto:nklitsch@web.de)
-- **GitHub:** [github.com/looZ149](https://github.com/looZ149)
-- **Standort:** Linkenheim-Hochstetten, Baden-Württemberg
