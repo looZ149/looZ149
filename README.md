@@ -2,7 +2,7 @@
 
 **Angehender Softwareentwickler · Fachinformatiker Anwendungsentwicklung (IHK)**
 
-Linkenheim-Hochstetten, Deutschland &nbsp;&nbsp;
+Deutschland &nbsp;&nbsp;
 
 </div>
 
